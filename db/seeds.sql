@@ -1,10 +1,3 @@
--- insert INTO department
-
-INSERT INTO
--- whatever table I want
-VALUES
--- determine what those values are
-
 INSERT INTO department (name)
 -- change values of department names
 VALUES ("Lion King"),
