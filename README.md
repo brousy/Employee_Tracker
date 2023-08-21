@@ -39,7 +39,8 @@ Tutor: Micky
 MIT License 
 
 ## Screen Shots
-
+![screenshot of options](./images/screenshot1.png)
+![screen shot of adding department options](./images/screenshot2.png)
 
 ## Video Walk Through
 
