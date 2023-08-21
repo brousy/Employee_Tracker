@@ -21,4 +21,4 @@ INSERT INTO employee (
 VALUES ("JOHN", "QUINN", 1, 1),
 -- add people
         ("BROU", "GRIFFIN", 2, 1);
-        ("MICHAEL", "JACKSON". 4, 1);
+        
