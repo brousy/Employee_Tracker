@@ -43,5 +43,5 @@ MIT License
 ![screen shot of adding department options](./images/screenshot2.png)
 
 ## Video Walk Through
-
+[YouTube Video Walk Through](https://youtu.be/juL1n4Sj9Yk)
 
